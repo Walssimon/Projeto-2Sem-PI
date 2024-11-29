@@ -1,0 +1,17 @@
+INSERT INTO TB_GENERO(NM_GENERO) VALUES
+('Ação'),
+('Aventura'),
+('Comédia'),
+('Drama'),
+('Ficção Científica'),
+('Fantasia'),
+('Terror'),
+('Animação'),
+('Romance'),
+('Mistério'),
+('Suspense'),
+('Documentário'),
+('Família'),
+('Ação/Aventura'),
+('Super-herói'),
+('Musical');
